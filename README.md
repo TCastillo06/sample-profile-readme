@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Taegan Pettit
 
 ## About Me
-I'm a Cyber Security student at the University of Texas at San Antonio. I have experience working with Windows, Linux, networking, Wireshark, VirtualBox, and Git. I'm interested in continuing to build my cybersecurity skills through hands-on labs and projects.
+I'm a Cyber Security student at the University of Texas at San Antonio. I have experience working with Windows, Linux, networking, Wireshark, VirtualBox, and Git. I'm interested in continuing to build my cybersecurity skills through hands-on labs and projects. I am continuing to build experience with Git and GitHub through hands-on projects.
 
 ## 🛠 Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
